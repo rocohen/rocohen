@@ -8,7 +8,7 @@
   <img align="right" src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="300">
 
 - 💡I love exploring new technologies and developing software solutions.
-- ✨ I’m currently working on **NodeJs REST APIs** projects 
+- ✨ I’m currently working on **NodeJS REST APIs** projects 
 - 🌱 I’m currently learning **React** and **TypeScript**  
 - 🚀 I’m looking to collaborate on MERN and PERN stack projects.
   
