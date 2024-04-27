@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **React** and **TypeScript**  
 - 🚀 I’m looking to collaborate on MERN and PERN stack projects.
   
-- 📫 How to reach me 👉 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/rosana-cohen/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:cohenrosanasol@gmail.com) 
+- 📫 How to reach me 👉 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:cohenrosanasol@gmail.com) 
 
 <br>
 
